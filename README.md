@@ -26,7 +26,7 @@ bash scanner.sh
 ## Usage example
 
 Screenshots:
-![Alt text]([https://drive.google.com/drive/u/1/folders/1qRSJ9v2xYIth2KLPtb35T4WI3P029LrZ](https://drive.google.com/file/d/1PZuDDiof7I2SnPNW8kxakqzmyGL9R_bY/view?usp=sharing))
+![Alt text](https://drive.google.com/drive/u/1/folders/1qRSJ9v2xYIth2KLPtb35T4WI3P029LrZ/Screenshot from 2023-07-08 15-06-25.png)
 
 _For more examples and usage, please refer to the [Wiki][wiki]._
 
