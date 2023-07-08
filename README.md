@@ -42,7 +42,7 @@ sudo yum install boxes
 * 1.0
     * First Release
 
-## Meta
+## Contact
 
 Akram Hammam – [@AkramHammam](https://twitter.com/dbader_org) – akramhammam59@gmail.com
 
