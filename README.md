@@ -1,4 +1,4 @@
-# Product Name
+# CheckyScan
 > Scans a range of IPs with a specified port number using nmap.
 
 
