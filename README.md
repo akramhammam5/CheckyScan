@@ -44,7 +44,7 @@ sudo yum install boxes
 
 ## Meta
 
-Akram Hammam – [@AkramHammma](https://twitter.com/dbader_org) – akramhammam59@gmail.com
+Akram Hammam – [@AkramHammam](https://twitter.com/dbader_org) – akramhammam59@gmail.com
 
 
 
