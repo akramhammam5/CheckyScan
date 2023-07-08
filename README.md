@@ -11,8 +11,8 @@ The Tool scans for any open ports specified within a range of IP addresses taken
 OS X & Linux:
 
 ```sh
-git clone https://github.com/akramhammam5/Scanner
-cd Scanner
+git clone https://github.com/akramhammam5/CheckyScan
+cd CheckyScan
 chmod +x scanner.sh
 ```
 
