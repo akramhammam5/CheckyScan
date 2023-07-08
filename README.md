@@ -2,7 +2,7 @@
 > Scans a range of IPs with a specified port number using nmap.
 
 
-The Tool scans for any open ports specified with range of IP addresses. I used nmap for the script. The script is very simple for daily routine check ups not for profesional use. 
+The Tool scans for any open ports specified within a range of IP addresses taken as an input. I used nmap for the script. The script is very simple for daily routine check ups not for profesional use. 
 
 ![](header.png)
 
